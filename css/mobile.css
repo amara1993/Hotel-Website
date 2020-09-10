@@ -1,0 +1,92 @@
+h1.logo{
+    float: none;
+    text-align: center;
+}
+
+ul#navbar-list{
+    float: none;
+}
+
+ul#navbar-list li{
+    float: none;
+}
+
+ul#navbar-list li a:hover{
+    color: red;
+    background: #ccc;
+}
+
+.container{
+    padding: 0px;
+}
+
+ul#navbar-list li a{
+   border-bottom: #444 dotted 1px;
+ }
+
+ section#hotel-details div.hotel-img{
+   display:none;
+}
+section#hotel-details div.hotel-content{
+    width: 100%;
+    float:none;
+    text-align: center;
+    height: 100%;
+}
+
+section#hotel-perks .box{
+    width:100%;
+    float:none;
+}
+
+section#about .about-details{
+    width: 100%;
+    float:none;
+}
+section#about .about-details h1{
+    text-align: center;
+ }
+
+section#about .about-img{
+    width: 100%;
+    float: none;
+    text-align: center;
+}
+section#about-guest h1{
+    font-size: 30px;
+}
+
+section#contact-perks .box{
+    float:none;
+    width:100%;
+    border-bottom: #444 dotted 1px;
+}
+
+.showcase-content{
+   padding-top: 70px;
+}
+
+.showcase-content h1{
+    
+    font-size: 40px;
+}
+.showcase-content p.lead{
+    
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+section#about .about-details h1{
+    text-align: center;
+    font-size: 25px;
+ }
+
+ section#about-guest h1{
+    font-size: 25px;
+    text-align: center;
+    margin-bottom:20px;
+    line-height: 1.7;
+}
+
+
+
+ 

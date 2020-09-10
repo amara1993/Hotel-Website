@@ -1,0 +1,12 @@
+section#hotel-details div.hotel-content{
+    
+    padding: 10 80px;
+}
+
+section#hotel-details div.hotel-content h2, section#hotel-details div.hotel-content p{ 
+   margin-bottom:0px;
+    line-height:1.4;
+}
+    
+    
+    
